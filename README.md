@@ -1,0 +1,2 @@
+# wik
+distributed wiki
